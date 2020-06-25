@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 25 16:15:20 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-ebd5-38d4-000001b03278 
+on database directory /Users/roflpommes/IdeaProjects/CarWebApp/db_car with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/roflpommes/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=/Users/roflpommes/IdeaProjects/CarWebApp
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
